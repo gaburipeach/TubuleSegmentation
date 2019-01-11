@@ -1,0 +1,5 @@
+![pairs](imgs/Tubule_Segmentation_by_Deconvolutional_Networks-1.png)
+![pairs](imgs/Tubule_Segmentation_by_Deconvolutional_Networks-2.png)
+![pairs](imgs/Tubule_Segmentation_by_Deconvolutional_Networks-3.png)
+![pairs](imgs/Tubule_Segmentation_by_Deconvolutional_Networks-4.png)
+![pairs](imgs/Tubule_Segmentation_by_Deconvolutional_Networks-5.png)
